@@ -32,4 +32,4 @@ bashphp artisan serve
 Buka browser dan akses: http://127.0.0.1:8000
 
 Demonstrasi Video
-🎬 Tautan YouTube akan segera ditambahkan.
+[🎬 Tautan YouTube akan segera ditambahkan.](https://youtu.be/Qgp5q5EGq-s)
