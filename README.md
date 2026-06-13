@@ -2,7 +2,7 @@ Nama: Setyo Pratama Putra Wibowo
 NIM: 240605110090
 
 Tentang Aplikasi
-Bosan scroll media sosial tapi nggak dapat konten yang bermutu? Aplikasi ini hadir sebagai ruang baca dan tulis yang lebih bermakna. Blog berbasis Laravel ini memungkinkan kamu untuk membaca artikel dari berbagai penulis maupun mempublikasikan tulisanmu sendiri — simpel, ringan, dan langsung ke intinya.
+Aplikasi ini hadir sebagai ruang baca dan tulis yang lebih bermakna. Blog berbasis Laravel ini memungkinkan untuk membaca artikel dari berbagai penulis maupun mempublikasikan tulisan
 
 Cara Menjalankan di Lokal
 Prasyarat: Pastikan sudah install PHP, Composer, Node.js, MySQL/XAMPP, dan Git.
